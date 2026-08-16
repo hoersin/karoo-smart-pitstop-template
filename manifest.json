@@ -1,11 +1,11 @@
 {
   "label": "Karoo Smart Pitstop",
   "packageName": "io.hammerhead.kaaroosmartpitstop",
-  "iconUrl": "https://raw.githubusercontent.com/ingolfhorsch/karoo-smart-pitstop-template/main/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
-  "latestApkUrl": "https://github.com/ingolfhorsch/karoo-smart-pitstop-template/releases/latest/download/app-release.apk",
+  "iconUrl": "https://raw.githubusercontent.com/hoersin/karoo-smart-pitstop-template/main/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
+  "latestApkUrl": "https://github.com/hoersin/karoo-smart-pitstop-template/releases/latest/download/app-release.apk",
   "latestVersion": "1.0.1",
   "latestVersionCode": 2,
-  "developer": "github.com/ingolfhorsch",
+  "developer": "github.com/hoersin",
   "description": "Minimal hello-world Karoo extension scaffold for testing extension discovery and runtime service startup.",
   "releaseNotes": "* Add MANIFEST_URL metadata\n* Align minSdk to 26\n* Install non-debuggable release build for Karoo discovery"
 }
