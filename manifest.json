@@ -2,7 +2,7 @@
   "label": "Karoo Smart Pitstop",
   "packageName": "io.hammerhead.kaaroosmartpitstop",
   "iconUrl": "https://raw.githubusercontent.com/hoersin/karoo-smart-pitstop-template/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
-  "latestApkUrl": "https://github.com/hoersin/karoo-smart-pitstop-template/releases/latest/download/app-release.apk",
+  "latestApkUrl": "https://github.com/hoersin/karoo-smart-pitstop-template/releases/download/v1.0.2/app-release.apk",
   "latestVersion": "1.0.2",
   "latestVersionCode": 3,
   "developer": "github.com/hoersin",

@@ -27,7 +27,7 @@
 
         <meta-data
             android:name="io.hammerhead.karooext.MANIFEST_URL"
-            android:value="https://raw.githubusercontent.com/hoersin/karoo-smart-pitstop-template/master/manifest.json" />
+            android:value="https://github.com/hoersin/karoo-smart-pitstop-template/releases/download/v1.0.2/manifest.json" />
     </application>
 
 </manifest>
