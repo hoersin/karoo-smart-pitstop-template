@@ -39,7 +39,7 @@ class ExtensionManifestContractTest {
 
         assertTrue(
             "Extension id must be set for the Karoo extension.",
-            metadata.contains("id=\"io.hammerhead.kaaroosmartpitstop\""),
+            metadata.contains("id=\"karoo-smart-pitstop\""),
         )
     }
 

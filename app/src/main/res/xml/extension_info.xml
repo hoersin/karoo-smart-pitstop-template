@@ -2,5 +2,5 @@
 <ExtensionInfo
     displayName="@string/extension_name"
     icon="@mipmap/ic_launcher"
-    id="io.hammerhead.kaaroosmartpitstop"
+    id="karoo-smart-pitstop"
     scansDevices="false" />
