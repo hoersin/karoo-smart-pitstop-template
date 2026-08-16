@@ -1,11 +1,10 @@
-package io.hammerhead.karooexttemplate
+package io.hammerhead.kaaroosmartpitstop
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import io.hammerhead.karooext.KarooSystemService
-import io.hammerhead.karooexttemplate.screens.MainScreen
-import io.hammerhead.karooexttemplate.theme.AppTheme
+import io.hammerhead.kaaroosmartpitstop.screens.MainScreen
+import io.hammerhead.kaaroosmartpitstop.theme.AppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

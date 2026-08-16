@@ -2,7 +2,5 @@
 <ExtensionInfo
     displayName="@string/extension_name"
     icon="@drawable/ic_launcher_foreground"
-    id="template-id"
-    scansDevices="false">
-    <!-- DataType ... -->
-</ExtensionInfo>
+    id="karoo-smart-pitstop"
+    scansDevices="false" />

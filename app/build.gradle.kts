@@ -5,15 +5,15 @@ plugins {
 }
 
 android {
-    namespace = "io.hammerhead.karooexttemplate"
+    namespace = "io.hammerhead.kaaroosmartpitstop"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "io.hammerhead.karooexttemplate"
-        minSdk = 23
+        applicationId = "io.hammerhead.kaaroosmartpitstop"
+        minSdk = 26
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.0.1"
     }
 
     buildTypes {
@@ -40,4 +40,6 @@ dependencies {
     implementation(libs.bundles.androidx.lifeycle)
     implementation(libs.androidx.activity.compose)
     implementation(libs.bundles.compose.ui)
+
+    testImplementation("junit:junit:4.13.2")
 }

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">template</string>
-    <string name="hello_karoo">Hello Karoo!</string>
-    <string name="extension_name">template</string>
+    <string name="app_name">KarooSmartPitStop</string>
+    <string name="hello_karoo">Hello World</string>
+    <string name="extension_name">KarooSmartPitStop</string>
 </resources>
