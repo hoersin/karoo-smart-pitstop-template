@@ -17,3 +17,7 @@ Template repository for empty app with Karoo Extension service.
 [karoo-ext source](https://github.com/hammerheadnav/karoo-ext)
 
 [Sample](https://github.com/hammerheadnav/karoo-ext/tree/master/app)
+
+## Beginner Guide
+
+[Karoo Programming Guide](docs/karoo-programming-guide.md)

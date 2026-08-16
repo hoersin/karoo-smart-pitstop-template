@@ -2,4 +2,6 @@
     <string name="app_name">KarooSmartPitStop</string>
     <string name="hello_karoo">Hello World</string>
     <string name="extension_name">KarooSmartPitStop</string>
+    <string name="cycling_word_display_name">Cycling Word</string>
+    <string name="cycling_word_description">Rotating motivational cycling word</string>
 </resources>

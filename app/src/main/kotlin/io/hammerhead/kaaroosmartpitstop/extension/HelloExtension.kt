@@ -1,8 +1,11 @@
 package io.hammerhead.kaaroosmartpitstop.extension
 
+import io.hammerhead.karooext.extension.DataTypeImpl
 import io.hammerhead.karooext.extension.KarooExtension
 
 class HelloExtension : KarooExtension("karoo-smart-pitstop", "3") {
-    // Minimal hello-world extension scaffold.
-    // The app UI handles runtime text updates; this class acts as the Karoo service anchor.
+    @Suppress("ACCIDENTAL_OVERRIDE")
+    fun getTypes(): List<DataTypeImpl> = listOf(
+        CyclingWordDataType(extension),
+    )
 }

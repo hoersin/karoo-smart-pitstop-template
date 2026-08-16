@@ -3,4 +3,11 @@
     displayName="@string/extension_name"
     icon="@mipmap/ic_launcher"
     id="karoo-smart-pitstop"
-    scansDevices="false" />
+    scansDevices="false">
+    <DataType
+        typeId="cycling-word"
+        displayName="@string/cycling_word_display_name"
+        description="@string/cycling_word_description"
+        graphical="false"
+        icon="@mipmap/ic_launcher" />
+</ExtensionInfo>
