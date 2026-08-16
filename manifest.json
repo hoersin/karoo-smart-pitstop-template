@@ -3,9 +3,9 @@
   "packageName": "io.hammerhead.kaaroosmartpitstop",
   "iconUrl": "https://raw.githubusercontent.com/hoersin/karoo-smart-pitstop-template/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
   "latestApkUrl": "https://github.com/hoersin/karoo-smart-pitstop-template/releases/latest/download/app-release.apk",
-  "latestVersion": "1.0.1",
-  "latestVersionCode": 2,
+  "latestVersion": "1.0.2",
+  "latestVersionCode": 3,
   "developer": "github.com/hoersin",
   "description": "Minimal hello-world Karoo extension scaffold for testing extension discovery and runtime service startup.",
-  "releaseNotes": "* Add MANIFEST_URL metadata\n* Align minSdk to 26\n* Install non-debuggable release build for Karoo discovery"
+  "releaseNotes": "* Use package-like extension id\n* Use launcher mipmap icon in extension info\n* Keep non-debuggable release packaging"
 }
